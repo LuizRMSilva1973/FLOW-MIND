@@ -1,0 +1,8 @@
+{
+  "name": "FlowMind Automação",
+  "description": "Um construtor de fluxos de automação de alto desempenho com um assistente de IA integrado para projetar processos de negócios complexos para integrações de WhatsApp, E-mail e CRM.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
